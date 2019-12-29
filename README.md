@@ -1,6 +1,6 @@
 # My_portfolio
 ### This is a website that will act as my marketing platform where i'll be able to showcase the projects that I have completed
-Link:https://jeffandeko.github.io/
+Link:https://jeffandeko.github.io/My_portfolio/
 #### By **{Jeff Andeko}**
 ## Description
 {This website will act as my marketing platform where i'll be able to showcase the projects that I have completed
